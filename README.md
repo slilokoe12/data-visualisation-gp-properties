@@ -1,3 +1,12 @@
+### How to view the 
+
+1. Install all the required Python packages (libraries) with pip
+`pip install -r requirements.txt`
+2. Run jupyter note bookbook.
+3. Run the 'Part_I_exploration_template.ipynb notebook' and restart the kennel to rerun the code for the cleaning process and and data exploration from a 
+single-variable (1d) to multiple-variable (2d) explorations.
+4. To see the slideshow of the findings, open the slide_deck_template.slides.html file.
+
 # Gauteng residential properties: Effects of the property's features on price
 ## by (Nkhesani Lilokoe)
 
